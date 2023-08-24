@@ -1,0 +1,24 @@
+NB_01_webscap_pingo
+
+This NB contains the code used to web scrape the products information of the mercadao.pt. The Code is correct, but not really well design. The logic behind the code is simple: open the webpage of mercadao.pt directly on the URL that contains the products information. Iterate through all the subsequent pages (because we found a human-readable pattern in each URL category) while scraping each one. We did a code per category and retrieved the information to a dictionary where the keys are the future dataset column names. Lastly, we concatenated the 10 dictionaries (10 categories) and exported to a CSV file for further analysis. 
+
+NB_02_webscrap_continente
+
+This NB contains the code used to web scrape the products information of the continente.pt. The Code is correct and well designed. It is divided in 3 steps: 1) extracting the URLs of each category; 2) requesting every URL, repeating the orders and increasing the pagination index; 3) extracted relevant information through div, span and tittle tags filtering by class or other attributes of the HTML structure. We got all the products in a dictionary which was concatenated by the 9 categories and turned into a dataset for further analysis. 
+
+
+NB_03_DataCleaning&Analysis_conti
+
+This notebook loads the csv file created by webscraping Continente's website. The initial dataset is in a tabular format but some features are initially in a string format and have additional information that prevents analysis and visualization. This notebook focuses on string manipulation to extract the relevant information (weight/amount, price, Unit, Price per Unit of Measure) from the initial webscraped data. Lastly, after creating a dataframe with standardized amounts per unit of measure as well as a clean column of strictly numeric values for the price features, we clean the dataset of duplicates and null values, and conduct exploratory analysis focused on assessing distribution of prices for each category.
+
+NB_04_DataCleaning&Analysis_Pingo
+
+This notebook loads the csv file created by webscraping Pingo Doce's website and follows the same structure and intent as NB_03 with some exceptions in string manipulation code. The initial dataset is in a tabular format but some features are initially in a string format and have additional information that prevents analysis and visualization. This notebook focuses on string manipulation to extract the relevant information (weight/amount, price, Unit, Price per Unit of Measure) from the initial webscraped data. Lastly, after creating a dataframe with standardized amounts per unit of measure as well as a clean column of strictly numeric values for the price features, we clean the dataset of duplicates and null values, and conduct exploratory analysis focused on assessing distribution of prices for each category.
+
+NB_05_3_Full_Analysis_Info
+
+This NB concatenate the pingo_doce and continente datasets already cleaned. Contains the Standerdization of categories. We filter the full data set 2 times: 1 for analysis purpose and 2 to information purpose. We concatenated respecting the intersected columns of both datasets. We filtered the first time crossing each product name in the full dataset with only the 25 tokens of the names of foods in the food basket. In the second filter we matched each product name with all tokens of the 25 foods in the food basket. Then we standardize the categories names. 
+
+NB_06_Analysis&Results_Final
+
+This notebook will compare the basket of goods in terms of the offers from Continente and Pingo Doce. We describe the dataset in terms of numeric and categorical variables. Contains numerical and graphical analysis. We do a Factor Analysis of Mixed Data (FAMD). 
