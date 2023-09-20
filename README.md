@@ -1,4 +1,4 @@
-![image](https://github.com/AndrePatchy/NOVA-IMS/blob/main/novaimsimage.png?raw=true)
+![image](https://github.com/AndrePatchy/NOVA-IMS/blob/main/novaimsimage.png?raw=true =400x250)
 
 - ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `Projects developed in the **Enterprise Data Science and Business Analytics** Post-Graduation at NOVA Information Management School - University of Lisbon.` 
 
