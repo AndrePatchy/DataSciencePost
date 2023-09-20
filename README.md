@@ -16,6 +16,7 @@ The following projects were developed in the **Enterprise Data Science and Busin
 1 - Python **Assigment**: 
 
 ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `1.1. Python basics`: Explore core building blocks of programming, focusing on variables, data structures, and their manipulation;
+
 ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `1.2. K-Means from scratch`: Build an unsupervised learning algorithm step by step.
 
 2 - **Webscrapping Project**: the project’s background goal is to collect the prices of the 25 items included in the Food Baskets: Operational Program to Support the Neediest People. We got the data of grocery products information with 16866 observations and eight features from 2 Portuguese supermarkets. By finding the best bargains among retailers, our analysis can assist customers in saving money. We divided the project into 3 major parts (to see the interesting conclusions check the .docx report (you have to download it) on the python folder):
