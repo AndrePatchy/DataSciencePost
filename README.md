@@ -2,6 +2,10 @@
 
 The following projects were developed in the **Enterprise Data Science and Business Analytics** Post-Graduation at NOVA Information Management School - University of Lisbon!
 
+Find me on Linkedin: 
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/andrepsoliveira/)
+
 **MACHINE LEARNING**
 
 ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `Machine Learning (Unsupervised):` the project follows a CRISP approach: a data-driven methodology to uncover new opportunities for expanding the business while being better equipped to target existing customers groups. We segmented the customers of Spice Alley restaurant through clustering algorithms. Identifying the main customers segments allows Spice Alley a better understanding of it's customers needs and behaviors. Essentialy, we answered the following **questions** (for more info. read the .pdf report on the "m-unsupervised_learning" folder):
