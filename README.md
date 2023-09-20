@@ -1,4 +1,4 @@
-<a align="left" src="https://github.com/AndrePatchy/NOVA-IMS/blob/main/novaimsimage.png?raw=true" height="100" width="100"/></a>
+![image](https://github.com/AndrePatchy/NOVA-IMS/blob/main/novaimsimage.png?raw=true)
 
 - ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `Projects developed in the **Enterprise Data Science and Business Analytics** Post-Graduation at NOVA Information Management School - University of Lisbon.` 
 
@@ -10,10 +10,10 @@
 
 - ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `Machine Learning (**Supervised**):` the project aims to predict if customers will respond positively or negatively to Spice Alley's new product campaign, based on the analysis of the customer value, behavior, channel preference and demographics. We applied supervised machine learning models such as **Neural Network**, **Support Vector Machines** and **Logistic Regression**. These models were trained using the historical data obtained from Spice Alley. The predictions were obtained based on the new customer data got from the answers to the new product campaing.  
 
-- ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `PYTHON`
+**PYTHON**
 1 - Python **Assigment**: 
-    1.1. Part 1: Python basics - Explore core building blocks of programming, focusing on variables, data structures, and their manipulation;
-    1.2. Part 2: K-Means from scratch - Build an unsupervised learning algorithm step by step.
+- ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `Python basics`: Explore core building blocks of programming, focusing on variables, data structures, and their manipulation;
+- ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `K-Means from scratch`: Build an unsupervised learning algorithm step by step.
 
 2. **Webscrapping Project**: the project’s background goal is to collect the prices of the 25 items included in the Food Baskets: Operational Program to Support the Neediest People. We got the data of grocery products information with 16866 observations and eight features from 2 Portuguese supermarkets. By finding the best bargains among retailers, our analysis can assist customers in saving money. We divided the project into 3 major parts (to see the interesting conclusions check the .docx report (you have to download it) on the python folder):
     2.1. Data Collection;
