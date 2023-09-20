@@ -1,4 +1,4 @@
-<img src="https://github.com/AndrePatchy/NOVA-IMS/blob/main/novaimsimage.png?raw=true" width="400" height="400" /> 
+<img src="https://github.com/AndrePatchy/NOVA-IMS/blob/main/novaimsimage.png?raw=true" width="300" height="300" /> 
 
 **Projects developed in the Enterprise Data Science and Business Analytics Post-Graduation at NOVA Information Management School - University of Lisbon**
 
