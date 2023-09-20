@@ -30,6 +30,6 @@ The following projects were developed in the **Enterprise Data Science and Busin
 
 The project consist of analyzing the Adventure Works database (for more info. see the "auction_script.sql" and "report.pdf" on t-sql folder). 
 
-![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `online auction process in SQL`: we builted an auction schema, created stored procedures for adding products to autcion, bidding on a product, removing a product from auction, updating a product's atucion status and creating lists of product's bidding history. 
+![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `online auction process in SQL`: we builted an auction schema, created stored procedures for adding products to auction, bidding on a product, removing a product from auction, updating a product's atucion status and creating lists of product's bidding history. 
 
 ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `brick-and-mortar stores`: a comprehensive analysis of the database to develop data-driven arguments for a final proposition of the two best cities for Adventure Works to open the first 2 brick-and-mortar stores. 
