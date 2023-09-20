@@ -1,6 +1,4 @@
-![image](https://github.com/AndrePatchy/NOVA-IMS/blob/main/novaimsimage.png?raw=true =400x250)
-
-- ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `Projects developed in the **Enterprise Data Science and Business Analytics** Post-Graduation at NOVA Information Management School - University of Lisbon.` 
+<img src="https://github.com/AndrePatchy/NOVA-IMS/blob/main/novaimsimage.png?raw=true" alt="Projects developed in the Enterprise Data Science and Business Analytics Post-Graduation at NOVA Information Management School - University of Lisbon" width="400" height="250" /> 
 
 **MACHINE LEARNING**
 - ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `Machine Learning (**Unsupervised**):` the project follows a CRISP approach: a data-driven methodology to uncover new opportunities for expanding the business while being better equipped to target existing customers groups. We segmented the customers of Spice Alley restaurant through clustering algorithms. Identifying the main customers segments allows Spice Alley a better understanding of it's customers needs and behaviors. Essentialy, we answered the following **questions** (for more info. read the .pdf report on the "m-_unsupervised_learning" folder): 
