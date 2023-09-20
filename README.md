@@ -14,6 +14,7 @@ The following projects were developed in the **Enterprise Data Science and Busin
 **PYTHON**
 
 1 - Python **Assigment**: 
+
 ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `1.1. Python basics`: Explore core building blocks of programming, focusing on variables, data structures, and their manipulation;
 ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `1.2. K-Means from scratch`: Build an unsupervised learning algorithm step by step.
 
