@@ -4,7 +4,7 @@ The following projects were developed in the **Enterprise Data Science and Busin
 
 **MACHINE LEARNING**
 
-![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `Machine Learning (Unsupervised):` the project follows a CRISP-DM approach: a data-driven methodology to uncover new opportunities for expanding the business while being better equipped to target existing customers groups. We segmented the customers of Spice Alley restaurant through clustering algorithms. Identifying the main customers segments allows Spice Alley a better understanding of it's customers needs and behaviors. Essentialy, we answered the following **questions** (for more info. read the .pdf report on the "m-unsupervised_learning" folder):
+![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `Machine Learning (Unsupervised):` the project follows a CRISP-DM approach: a data-driven methodology to uncover new opportunities for expanding the business while being better equipped to target existing customers groups. We segmented the customers of Spice Alley restaurant through clustering algorithms. Identifying the main customers segments allows Spice Alley a better understanding of it's customers needs and behaviors. Essentialy, we answered the following **questions** (for more info. read the .pdf report on the "unsupervised_learning" folder):
 
     - What are our customers segments? 
     - Which features allows us to distinguish our customers and their consumption behavior?
