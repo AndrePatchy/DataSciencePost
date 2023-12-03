@@ -4,10 +4,10 @@ The following projects were developed in the **Enterprise Data Science and Analy
 
 **MACHINE LEARNING**
 
-![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `Deep Learning and Neural Networks` <p>
-Classification and regression projects applying neural networks only. [Click here.](./deep_learning/predict_imdb_reviews.ipynb)
+[Deep Learning and Neural Networks](./deep_learning/predict_imdb_reviews.ipynb) <p>
+Classification and regression projects applying neural networks only.
 
-![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `Machine Learning (Unsupervised)` <p> 
+[Machine Learning (Unsupervised)](./machine_learning/ml_supervised_learning/Deliverables/DSML_202223_Predictive_Group21_Notebook.ipynb) <p> 
 The project follows a cross-industry process for data mining approach to uncover new opportunities for expanding the business while being better equipped to target existing customers groups. Spice Alley's customers were segmented through clustering algorithms. Customer profiling allows Spice Alley a better understanding of it's customers needs and behaviors. The questions that guided the project were the following (more info in the .pdf file report in "unsupervised_learning" folder):
 
     - What are Spice Alley customers segments? 
