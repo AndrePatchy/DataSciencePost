@@ -5,7 +5,7 @@ The following projects were developed in the **Enterprise Data Science and Analy
 **MACHINE LEARNING**
 
 ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `Machine Learning (Unsupervised)` <p> 
-The project follows a cross-industry process for data mining approach to uncover new opportunities for expanding the business while being better equipped to target existing customers groups. Spice Alley's customers were segmented through clustering algorithms. Customer profilling allows Spice Alley a better understanding of it's customers needs and behaviors. The questions that guided the project were the following (more info in the .pdf file report in "unsupervised_learning" folder):
+The project follows a cross-industry process for data mining approach to uncover new opportunities for expanding the business while being better equipped to target existing customers groups. Spice Alley's customers were segmented through clustering algorithms. Customer profiling allows Spice Alley a better understanding of it's customers needs and behaviors. The questions that guided the project were the following (more info in the .pdf file report in "unsupervised_learning" folder):
 
     - What are Spice Alley customers segments? 
     - Which Spice Alley customer's features allows to distinguish their customers and consumption behavior?
