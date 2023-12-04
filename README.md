@@ -23,21 +23,7 @@ The project aims to predict if Spice Alley's customers will respond positively o
 
 2nd Project <p>
 [Curbing Employee Attrition](https://github.com/AndrePatchy/nova-ims/blob/main/machine_learning/curbing_employee_attrition/Curbing%20Employee%20Attrition%20NB.ipynb) <p>
-Challenge:
-
-    — Predict the probability of an employee with certain characteristics stay or quit his/her current job in the company
-    — Build a model to use by the company’s Human Resource team warning them about employees that potentially will quit
-
-What the Company wants: 
-
-    — Correlate the distance from home with the attrition rate
-    — Understand effects of variables on attrition
-    — What makes an employee keep working on the company
-
-Goals: 
-
-    — Descriptive Analytics: find correlations between the different variables, possibility of clustering analysis, build nice visualizations that may help to get better insights for the analysis, check feature’s cardinality and analyze possible highly correlation features that may be removed and still achieve good results 
-    — Predictive Analytics: build a classification model to predict Attrition
+The project involves both descriptive analytics to gain a deep understanding of the existing patterns and predictive analytics to proactively identify potential employee attrition. The ultimate goal is to equip the HR team with a tool that can help in making informed decisions to enhance employee retention within the company.
 
 ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `Python` <p> 
 
