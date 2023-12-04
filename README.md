@@ -7,7 +7,7 @@ The following projects were developed in the **Enterprise Data Science and Analy
 [Deep Learning and Neural Networks](./machine_learning/deep_learning/predict_imdb_reviews.ipynb) <p>
 Classification and regression problems applying neural networks only.
 
-[Unsupervised Learning](machine_learning/ml_unsupervised_learning/Deliverables/DSML_202223_Cluster_Group21_Notebook.ipynb) <p> 
+[Unsupervised Learning](https://github.com/AndrePatchy/nova-ims/blob/main/machine_learning/ml_unsupervised_learning/Deliverables/DSML_202223_Cluster_Group21_Notebook.ipynb) <p> 
 ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `1. Customer Profiling` <p> 
 The project follows a cross-industry process for data mining approach to uncover new opportunities for expanding the business while being better equipped to target existing customers groups. Spice Alley's customers were segmented through clustering algorithms. Customer profiling allows Spice Alley a better understanding of it's customers needs and behaviors. The questions that guided the project were the following:
 
@@ -15,11 +15,11 @@ The project follows a cross-industry process for data mining approach to uncover
     - Which Spice Alley customer's features allows to distinguish their customers and consumption behavior?
     - What patterns/tendencies better allow us to segment Spice Alley customers? 
 
-[Supervised Learning](./machine_learning/ml_supervised_learning/Deliverables/DSML_202223_Predictive_Group21_Notebook.ipynb) <p> 
-![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `1. Spice Alley's Customer Prediction` <p> 
+Supervised Learning <p> 
+![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `[1. Spice Alley's Customer Prediction](./machine_learning/ml_supervised_learning/Deliverables/DSML_202223_Predictive_Group21_Notebook.ipynb)` <p> 
 The project aims to predict if Spice Alley's customers will respond positively or negatively to Spice Alley's new product campaign. The models Neural Network, Support Vector Machines and Logistic Regression were applied to predict the response of Spice Alley's customers to a new marketing campaign. These models were trained using the historical data obtained from Spice Alley. The predictions were obtained based on the new customer data got from the answers to the new product campaign.  
 
-![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `2. Curbing Employee Attrition` <p>
+![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `[2. Curbing Employee Attrition](https://github.com/AndrePatchy/nova-ims/blob/main/machine_learning/curbing_employee_attrition/Curbing%20Employee%20Attrition%20NB.ipynb)` <p>
 Challenge:
 
     — Predict the probability of an employee with certain characteristics stay or quit his/her current job in the company
