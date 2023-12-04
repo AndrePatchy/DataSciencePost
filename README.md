@@ -2,7 +2,7 @@
 
 The following projects were developed in the **Enterprise Data Science and Analytics** Post-Graduation at NOVA Information Management School - University of Lisbon!
 
-**MACHINE LEARNING**
+![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `Machine Learning` <p> 
 
 [Deep Learning and Neural Networks](./machine_learning/deep_learning/predict_imdb_reviews.ipynb) <p>
 Classification and regression problems applying neural networks only.
@@ -36,7 +36,7 @@ Goals:
     — Descriptive Analytics: find correlations between the different variables, possibility of clustering analysis, build nice visualizations that may help to get better insights for the analysis, check feature’s cardinality and analyze possible highly correlation features that may be removed and still achieve good results 
     — Predictive Analytics: build a classification model to predict Attrition
 
-**PYTHON**
+![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `Python` <p> 
 
 [1 - Python Assigment:](./python/python_assignment.ipynb) 
 
@@ -53,7 +53,7 @@ The project’s background goal is to collect the prices of the 25 items include
     2.2. Data Cleaning;
     2.3. Data Visualization and Analysis.
 
-[T-SQL](./t-sql)
+![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `t-SQL` <p> 
 
 The project consist of working the Adventure Works database in two ways using Microsoft Azure:
 
