@@ -11,11 +11,11 @@ Group composed by:
 <br>
 
 ## Project Files
-- [DataSet](https://github.com/DiogoPF/Curbing-Employee-Attrition/blob/main/Dataset/HR_DS.csv)
-- [Project Instructions](https://github.com/DiogoPF/Curbing-Employee-Attrition/blob/main/Instructions/NOVA_IMS_-_Human-Resources-Employee-Attrition.pdf)
-- [Project Notebook](https://github.com/DiogoPF/Curbing-Employee-Attrition/blob/main/Curbing%20Employee%20Attrition%20NB.ipynb)
-- [Presentation](https://github.com/DiogoPF/Curbing-Employee-Attrition/blob/main/Slide%20Stack/EDSB23X.pdf)
-- [Radar Charts (presentation)](https://github.com/DiogoPF/Curbing-Employee-Attrition/tree/main/Graphics)
+- [DataSet](https://github.com/AndrePatchy/nova-ims/blob/main/machine_learning/curbing_employee_attrition/Dataset/HR_DS.csv)
+- [Project Instructions](https://github.com/AndrePatchy/nova-ims/blob/main/machine_learning/curbing_employee_attrition/Instructions/NOVA_IMS_-_Human-Resources-Employee-Attrition.pdf)
+- [Project Notebook](https://github.com/AndrePatchy/nova-ims/blob/main/machine_learning/curbing_employee_attrition/Curbing%20Employee%20Attrition%20NB.ipynb)
+- [Presentation](https://github.com/AndrePatchy/nova-ims/blob/main/machine_learning/curbing_employee_attrition/Slide%20Stack/EDSB23X.pdf)
+- [Radar Charts (presentation)](https://github.com/AndrePatchy/nova-ims/tree/main/machine_learning/curbing_employee_attrition/Graphics)
 
 
 
