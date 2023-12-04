@@ -4,7 +4,7 @@ The following projects were developed in the **Enterprise Data Science and Analy
 
 **MACHINE LEARNING**
 
-[Deep Learning and Neural Networks](./deep_learning/predict_imdb_reviews.ipynb) <p>
+[Deep Learning and Neural Networks](./machine_learning/deep_learning/predict_imdb_reviews.ipynb) <p>
 Classification and regression projects applying neural networks only.
 
 [Machine Learning (Unsupervised)](machine_learning/ml_unsupervised_learning/Deliverables/DSML_202223_Cluster_Group21_Notebook.ipynb) <p> 
