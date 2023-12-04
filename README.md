@@ -17,23 +17,24 @@ The project follows a cross-industry process for data mining approach to uncover
 
 [Supervised Learning](./machine_learning/ml_supervised_learning/Deliverables/DSML_202223_Predictive_Group21_Notebook.ipynb) <p> 
 ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `1. Spice Alley's Customer Prediction` <p> 
-The project aims to predict if Spice Alley's customers will respond positively or negatively to Spice Alley's new product campaign. The models Neural Network, Support Vector Machines and Logistic Regression were applied to predict the response of Spice Alley's customers to a new marketing campaign. These models were trained using the historical data obtained from Spice Alley. The predictions were obtained based on the new customer data got from the answers to the new product campaing.  
+The project aims to predict if Spice Alley's customers will respond positively or negatively to Spice Alley's new product campaign. The models Neural Network, Support Vector Machines and Logistic Regression were applied to predict the response of Spice Alley's customers to a new marketing campaign. These models were trained using the historical data obtained from Spice Alley. The predictions were obtained based on the new customer data got from the answers to the new product campaign.  
 
 ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `2. Curbing Employee Attrition` <p>
-Challenge: <p>
-    - Predict the probability of an employee with certain characteristics stay or quit his/her current job in the company
-    - Build a model to use by the company’s Human Resource team warning them about employees that potentially will quit
+Challenge:
 
-What the Company wants: <p>
+    — Predict the probability of an employee with certain characteristics stay or quit his/her current job in the company
+    — Build a model to use by the company’s Human Resource team warning them about employees that potentially will quit
 
-    - Correlate the distance from home with the attrition rate
-    - Understand effects of variables on attrition
-    - What makes an employee keep working on the company
+What the Company wants: 
 
-Goals: <p>
+    — Correlate the distance from home with the attrition rate
+    — Understand effects of variables on attrition
+    — What makes an employee keep working on the company
 
-    - Descriptive Analytics: find correlations between the different variables, possibility of clustering analysis, build nice visualizations that may help to get better insights for the analysis, check feature’s cardinality and analyze possible highly correlation features that may be removed and still achieve good results 
-    - Predictive Analytics: build a classification model to predict Attrition
+Goals: 
+
+    — Descriptive Analytics: find correlations between the different variables, possibility of clustering analysis, build nice visualizations that may help to get better insights for the analysis, check feature’s cardinality and analyze possible highly correlation features that may be removed and still achieve good results 
+    — Predictive Analytics: build a classification model to predict Attrition
 
 **PYTHON**
 
