@@ -20,8 +20,19 @@ The project aims to predict if Spice Alley's customers will respond positively o
 
 ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `2. Curbing Employee Attrition` <p>
 Challenge: <p>
-> * __Predict the probability of an employee with certain characteristics stay or quit his/her current job in the company__ <p>
-> * __Build a model to use by the company’s Human Resource team warning them about employees that potentially will quit__ <p>
+    - Predict the probability of an employee with certain characteristics stay or quit his/her current job in the company
+    - Build a model to use by the company’s Human Resource team warning them about employees that potentially will quit
+
+What the Company wants: <p>
+
+    - Correlate the distance from home with the attrition rate
+    - Understand effects of variables on attrition
+    - What makes an employee keep working on the company
+
+Goals: <p>
+
+    - Descriptive Analytics: find correlations between the different variables, possibility of clustering analysis, build nice visualizations that may help to get better insights for the analysis, check feature’s cardinality and analyze possible highly correlation features that may be removed and still achieve good results 
+    - Predictive Analytics: build a classification model to predict Attrition
 
 **PYTHON**
 
