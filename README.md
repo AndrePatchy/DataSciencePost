@@ -7,7 +7,7 @@ The following projects were developed in the **Enterprise Data Science and Analy
 [Deep Learning and Neural Networks](./machine_learning/deep_learning/predict_imdb_reviews.ipynb) <p>
 Classification and regression problems applying neural networks only.
 
-Unsupervised Learning <p> 
+![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) Unsupervised Learning <p> 
 [Customer Profiling](https://github.com/AndrePatchy/nova-ims/blob/main/machine_learning/ml_unsupervised_learning/Deliverables/DSML_202223_Cluster_Group21_Notebook.ipynb) <p> 
 The project follows a cross-industry process for data mining approach to uncover new opportunities for expanding the business while being better equipped to target existing customers groups. Spice Alley's customers were segmented through clustering algorithms. Customer profiling allows Spice Alley a better understanding of it's customers needs and behaviors. The questions that guided the project were the following:
 
