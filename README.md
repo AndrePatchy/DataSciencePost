@@ -4,8 +4,12 @@ The following projects were developed in the **Enterprise Data Science and Analy
 
 ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `Machine Learning` <p> 
 
-[Deep Learning and Neural Networks](./machine_learning/deep_learning/predict_imdb_reviews.ipynb) <p>
-Classification and regression problems applying neural networks only.
+[Deep Learning](./Machine Learning/Deep Learning) <p>
+Classification and regression problems applying only deep learning algorithms.
+
+[Predict IMDB reviews with Neural Networks](./Machine Learning/Deep Learning/Neural Net/predict_imdb_reviews.ipynb) <p>
+
+[Diagnosis of Diabetic Retinopathy with Convolutional Neural Networks](./Machine Learning/Deep Learning/CNN/diabetic_retinopathy_classification.ipynb)
 
 __Unsupervised Learning__
 
