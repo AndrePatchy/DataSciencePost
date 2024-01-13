@@ -4,12 +4,12 @@ The following projects were developed in the **Enterprise Data Science and Analy
 
 ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `Machine Learning` <p> 
 
-[Deep Learning](./Machine Learning/Deep Learning) <p>
+[Deep Learning](https://github.com/AndrePatchy/nova-ims/tree/main/Machine%20Learning/Deep%20Learning) <p>
 Classification and regression problems applying only deep learning algorithms.
 
-[Predict IMDB reviews with Neural Networks](./Machine Learning/Deep Learning/Neural Net/predict_imdb_reviews.ipynb) <p>
+[Predict IMDB reviews with Neural Networks](https://github.com/AndrePatchy/nova-ims/blob/main/Machine%20Learning/Deep%20Learning/Neural%20Net/predict_imdb_reviews.ipynb) <p>
 
-[Diagnosis of Diabetic Retinopathy with Convolutional Neural Networks](./Machine Learning/Deep Learning/CNN/diabetic_retinopathy_classification.ipynb)
+[Diagnosis of Diabetic Retinopathy with Convolutional Neural Networks](https://github.com/AndrePatchy/nova-ims/blob/main/Machine%20Learning/Deep%20Learning/CNN/diabetic_retinopathy_classification.ipynb)
 
 __Unsupervised Learning__
 
