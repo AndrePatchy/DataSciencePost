@@ -13,7 +13,7 @@ Classification and regression problems applying only deep learning algorithms.
 
 __Unsupervised Learning__
 
-[Customer Profiling](./Machine Learning/Unsupervised Learning/Deliverables/DSML_202223_Cluster_Group21_Notebook.ipynb) <p> 
+[Customer Profiling](https://github.com/AndrePatchy/nova-ims/blob/main/Machine%20Learning/Unsupervised%20Learning/Deliverables/DSML_202223_Cluster_Group21_Notebook.ipynb) <p> 
 The project follows a cross-industry process for data mining approach to uncover new opportunities for expanding the business while being better equipped to target existing customers groups. Spice Alley's customers were segmented through clustering algorithms. Customer profiling allows Spice Alley a better understanding of it's customers needs and behaviors. The questions that guided the project were the following:
 
     - What are Spice Alley customers segments? 
@@ -26,7 +26,7 @@ __Supervised Learning__ <p>
 The project aims to predict if Spice Alley's customers will respond positively or negatively to Spice Alley's new product campaign. The models Neural Network, Support Vector Machines and Logistic Regression were applied to predict the response of Spice Alley's customers to a new marketing campaign. These models were trained using the historical data obtained from Spice Alley. The predictions were obtained based on the new customer data got from the answers to the new product campaign.  
 
 2nd Project <p>
-[Curbing Employee Attrition](https://github.com/AndrePatchy/nova-ims/blob/main/machine_learning/curbing_employee_attrition/Curbing%20Employee%20Attrition%20NB.ipynb) <p>
+[Curbing Employee Attrition](https://github.com/AndrePatchy/nova-ims/blob/main/Machine%20Learning/Supervised%20Learning/Deliverables/DSML_202223_Predictive_Group21_Notebook.ipynb) <p>
 The project involves both descriptive analytics to gain a deep understanding of the existing patterns and predictive analytics to proactively identify potential employee attrition. The ultimate goal is to equip the HR team with a tool that can help in making informed decisions to enhance employee retention within the company.
 
 ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `Python` <p> 
