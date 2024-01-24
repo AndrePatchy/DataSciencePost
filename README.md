@@ -13,7 +13,7 @@ Classification and regression problems applying only deep learning algorithms.
 
 __Unsupervised Learning__
 
-[Customer Profiling](https://github.com/AndrePatchy/nova-ims/blob/main/machine_learning/ml_unsupervised_learning/Deliverables/DSML_202223_Cluster_Group21_Notebook.ipynb) <p> 
+[Customer Profiling](./Machine Learning/Unsupervised Learning/Deliverables/DSML_202223_Cluster_Group21_Notebook.ipynb) <p> 
 The project follows a cross-industry process for data mining approach to uncover new opportunities for expanding the business while being better equipped to target existing customers groups. Spice Alley's customers were segmented through clustering algorithms. Customer profiling allows Spice Alley a better understanding of it's customers needs and behaviors. The questions that guided the project were the following:
 
     - What are Spice Alley customers segments? 
