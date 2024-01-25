@@ -11,41 +11,50 @@
 <h1>Data Science & Machine Learning</h1>
 <p>The following projects were developed in the Enterprise Data Science and Analytics Post-Graduation at NOVA Information Management School - University of Lisbon!</p>
 
-<h1>
+<h2>
     <span class="heading">1.</span>
     <a href="https://github.com/AndrePatchy/nova-ims/tree/main/Machine%20Learning/Deep%20Learning" target="_blank">Deep Learning</a>
-</h1>
+</h2>
 <p>Classification and regression problems applying only deep learning algorithms.</p>
 
-<h2>
+<h3>
     <span class="subheading">1.1.</span>
     <a href="https://github.com/AndrePatchy/nova-ims/blob/main/Machine%20Learning/Deep%20Learning/Neural%20Net/predict_imdb_reviews.ipynb" target="_blank">Predict IMDB reviews with Neural Networks</a>
-</h2>
+</h3>
 
 <h3>
     <span class="subheading">1.2.</span>
     <a href="https://github.com/AndrePatchy/nova-ims/blob/main/Machine%20Learning/Deep%20Learning/CNN/diabetic_retinopathy_classification.ipynb" target="_blank">Diagnosis of Diabetic Retinopathy with Convolutional Neural Networks</a>
 </h3>
 
-<h1>
+<h2>
     <span class="subheading">2.</span>
     <a href="https://github.com/AndrePatchy/nova-ims/tree/main/Machine%20Learning/Unsupervised%20Learning" target="_blank">Unsupervised Learning</a>
-</h1>
+</h2>
 
-<h2>
+<h3>
     <span class="subheading">2.1.</span>
     <a href="https://github.com/AndrePatchy/nova-ims/blob/main/Machine%20Learning/Unsupervised%20Learning/Deliverables/DSML_202223_Cluster_Group21_Notebook.ipynb" target="_blank">Customer Profiling</a>
-</h2>
+</h3>
 <p>Using Python we analyzed (data cleaning, data transforming, feature engineering, statistical analysis, PCA) and segmented a customer's database by applying clustering algorithms (k-means, k-modes). The 4 distinct groups identified were personally approached by the marketing team.</p>
 
+<h2>
+    <span class="subheading">3.</span>
+    <a href="https://github.com/AndrePatchy/nova-ims/tree/main/Machine%20Learning/Supervised%20Learning" target="_blank">Supervised Learning</a> 
+</h2>
 
-__Supervised Learning__ <p> 
-1st Project <p>
-[Predictive Analysis of Customer Response](https://github.com/AndrePatchy/nova-ims/blob/main/Machine%20Learning/Supervised%20Learning/Deliverables/DSML_202223_Predictive_Group21_Notebook.ipynb) <p> 
+<h3>
+    <span class="subheading">3.1.</span>
+    <a href="https://github.com/AndrePatchy/nova-ims/blob/main/Machine%20Learning/Supervised%20Learning/Deliverables/DSML_202223_Predictive_Group21_Notebook.ipynb" target="_blank">Predictive Analysis of Customer Response</a>
+</h3>
+ 
 Using historical data we did descriptive and prescriptive analytics, (data cleaning, data transforming, feature engineering, statistical analysis, PCA, k-means) and with supervised machine learning algorithms (neural net, support vector machines and logistic regression) we predict the response of a customers database to a new marketing campaign. The results are the predictions of each customer response to X marketing campaign. 
 
-2nd Project <p>
-[Curbing Employee Attrition](https://github.com/AndrePatchy/nova-ims/tree/main/Machine%20Learning/Curbing%20Employee%20Attrition) <p>
+<h3>
+    <span class="subheading">3.2.</span>
+    <a href="https://github.com/AndrePatchy/nova-ims/tree/main/Machine%20Learning/Curbing%20Employee%20Attrition" target="_blank">Curbing Employee Attrition</a>
+</h3>
+
 Using Python (numpy, scipy, seaborn, matplotlib, sklearn), we did both descriptive analytics (data cleaning, data transforming, feature engineering, statistical analysis, PCA, MCA) and predictive analytics to find patterns and proactively identify potential employee attrition. Data-driven actions could be made regarding the 3 distinct groups identified with similar patterns according to the features that impact employee attrition. 
 
 ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `Python` <p> 
