@@ -8,9 +8,8 @@
 
 <img src="https://github.com/AndrePatchy/NOVA-IMS/blob/main/novaimsimage.png?raw=true" width="300" height="300" /> 
 
-The following projects were developed in the **Enterprise Data Science and Analytics** Post-Graduation at NOVA Information Management School - University of Lisbon!
-
 <h1>Data Science & Machine Learning</h1>
+<p>The following projects were developed in the **Enterprise Data Science and Analytics** Post-Graduation at NOVA Information Management School - University of Lisbon!</p>
 
 <h1>
     <span class="heading">1.</span>
