@@ -19,7 +19,7 @@ Using Python we analyzed (data cleaning, data transforming, feature engineering,
 __Supervised Learning__ <p> 
 1st Project <p>
 [Predictive Analysis of Customer Response](https://github.com/AndrePatchy/nova-ims/blob/main/Machine%20Learning/Supervised%20Learning/Deliverables/DSML_202223_Predictive_Group21_Notebook.ipynb) <p> 
-Predictive Analysis of Customer Response. Using historical data we did descriptive and prescriptive analytics, (data cleaning, data transforming, feature engineering, statistical analysis, PCA, k-means) and with supervised machine learning algorithms (neural net, support vector machines and logistic regression) we predict the response of a customers database to a new marketing campaign. The results are the predictions of each customer response to X marketing campaign. 
+Using historical data we did descriptive and prescriptive analytics, (data cleaning, data transforming, feature engineering, statistical analysis, PCA, k-means) and with supervised machine learning algorithms (neural net, support vector machines and logistic regression) we predict the response of a customers database to a new marketing campaign. The results are the predictions of each customer response to X marketing campaign. 
 
 2nd Project <p>
 [Curbing Employee Attrition](https://github.com/AndrePatchy/nova-ims/tree/main/Machine%20Learning/Curbing%20Employee%20Attrition) <p>
