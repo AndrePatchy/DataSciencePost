@@ -8,7 +8,7 @@ The following projects were developed in the **Enterprise Data Science and Analy
 
 Classification and regression problems applying only deep learning algorithms.
 
-[Predict IMDB reviews with Neural Networks](https://github.com/AndrePatchy/nova-ims/blob/main/Machine%20Learning/Deep%20Learning/Neural%20Net/predict_imdb_reviews.ipynb) <p>
+<h3><a href="https://github.com/AndrePatchy/nova-ims/blob/main/Machine%20Learning/Deep%20Learning/Neural%20Net/predict_imdb_reviews.ipynb" target="_blank">Predict IMDB reviews with Neural Networks</a></h3>
 
 [Diagnosis of Diabetic Retinopathy with Convolutional Neural Networks](https://github.com/AndrePatchy/nova-ims/blob/main/Machine%20Learning/Deep%20Learning/CNN/diabetic_retinopathy_classification.ipynb)
 
