@@ -14,20 +14,16 @@ Classification and regression problems applying only deep learning algorithms.
 __Unsupervised Learning__
 
 [Customer Profiling](https://github.com/AndrePatchy/nova-ims/blob/main/Machine%20Learning/Unsupervised%20Learning/Deliverables/DSML_202223_Cluster_Group21_Notebook.ipynb) <p> 
-The project follows a cross-industry process for data mining approach to uncover new opportunities for expanding the business while being better equipped to target existing customers groups. Spice Alley's customers were segmented through clustering algorithms. Customer profiling allows Spice Alley a better understanding of it's customers needs and behaviors. The questions that guided the project were the following:
-
-    - What are Spice Alley customers segments? 
-    - Which Spice Alley customer's features allows to distinguish their customers and consumption behavior?
-    - What patterns/tendencies better allow us to segment Spice Alley customers? 
+Using Python we analyzed (data cleaning, data transforming, feature engineering, statistical analysis, PCA) and segmented a customer's database by applying clustering algorithms (k-means, k-modes). The 4 distinct groups identified were personally approached by the marketing team. 
 
 __Supervised Learning__ <p> 
 1st Project <p>
 [Predictive Analysis of Customer Response](https://github.com/AndrePatchy/nova-ims/blob/main/Machine%20Learning/Supervised%20Learning/Deliverables/DSML_202223_Predictive_Group21_Notebook.ipynb) <p> 
-The project aims to predict if Spice Alley's customers will respond positively or negatively to Spice Alley's new product campaign. The models Neural Network, Support Vector Machines and Logistic Regression were applied to predict the response of Spice Alley's customers to a new marketing campaign. These models were trained using the historical data obtained from Spice Alley. The predictions were obtained based on the new customer data got from the answers to the new product campaign.  
+Predictive Analysis of Customer Response. Using historical data we did descriptive and prescriptive analytics, (data cleaning, data transforming, feature engineering, statistical analysis, PCA, k-means) and with supervised machine learning algorithms (neural net, support vector machines and logistic regression) we predict the response of a customers database to a new marketing campaign. The results are the predictions of each customer response to X marketing campaign. 
 
 2nd Project <p>
 [Curbing Employee Attrition](https://github.com/AndrePatchy/nova-ims/tree/main/Machine%20Learning/Curbing%20Employee%20Attrition) <p>
-The project involves both descriptive analytics to gain a deep understanding of the existing patterns and predictive analytics to proactively identify potential employee attrition. The ultimate goal is to equip the HR team with a tool that can help in making informed decisions to enhance employee retention within the company.
+Using Python (numpy, scipy, seaborn, matplotlib, sklearn), we did both descriptive analytics (data cleaning, data transforming, feature engineering, statistical analysis, PCA, MCA) and predictive analytics to find patterns and proactively identify potential employee attrition. Data-driven actions could be made regarding the 3 distinct groups identified with similar patterns according to the features that impact employee attrition. 
 
 ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `Python` <p> 
 
@@ -51,7 +47,7 @@ The project’s background goal is to collect the prices of the 25 items include
 The project consist of working the Adventure Works database in two ways using Microsoft Azure:
 
 [1. Online auction process in SQL](./t-sql/auction_script.sql) <p> 
-We builted an auction schema in a CosmosDB database, created stored procedures for adding products to auction, bidding on a product, removing a product from auction, updating a product's auction status and creating lists of product's bidding history. 
+Using t-SQL we built an auction schema in a CosmosDB database, created stored procedures for adding products to auction, bidding on a product, removing a product from auction, updating a product’s auction status and creating lists of product’s bidding history. 
 
 [2. Brick-and-mortar stores](./t-sql/part_2/Part_2_script.sql) <p>
 A comprehensive analysis of the database to develop data-driven arguments for a final proposition of the two best cities for Adventure Works to open the first 2 brick-and-mortar stores. 
