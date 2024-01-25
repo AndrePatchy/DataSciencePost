@@ -57,31 +57,47 @@ Using historical data we did descriptive and prescriptive analytics, (data clean
 
 Using Python (numpy, scipy, seaborn, matplotlib, sklearn), we did both descriptive analytics (data cleaning, data transforming, feature engineering, statistical analysis, PCA, MCA) and predictive analytics to find patterns and proactively identify potential employee attrition. Data-driven actions could be made regarding the 3 distinct groups identified with similar patterns according to the features that impact employee attrition. 
 
-![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `Python` <p> 
+<h2>4. Python</h2>
 
-[1 - Python Assigment:](./python/python_assignment.ipynb) 
+<h3>
+    <span class="subheading">4.1.</span>
+    <a href="https://github.com/AndrePatchy/nova-ims/tree/main/python" target="_blank">Python Basics</a>
+</h3>
 
-![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `1.1. Python basics` <p> 
-Explore core building blocks of programming, focusing on variables, data structures, and their manipulation;
+Explore core building blocks of programming, focusing on variables, data structures, and their manipulation.
 
-![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `1.2. K-Means from scratch` <p> 
-Build an unsupervised learning algorithm step by step.
+<h3>
+    <span class="subheading">4.2.</span>
+    <a href="https://github.com/AndrePatchy/nova-ims/tree/main/python" target="_blank">K-Means from scratch</a>
+</h3>
 
-[2 - Webscrapping Project](./python/webscrapping_project) <p>
-The project’s background goal is to collect the prices of the 25 items included in the Food Baskets: Operational Program to Support the Neediest People. We got the data of grocery products information with 16866 observations and eight features from 2 Portuguese supermarkets. By finding the best bargains among retailers, our analysis can assist customers in saving money. We divided the project into 3 major parts:
+Build k-means algorithm step by step.
+
+<h3>
+    <span class="subheading">4.3.</span>
+    <a href="https://github.com/AndrePatchy/nova-ims/tree/main/python/webscrapping_project" target="_blank">Webscrapping Project</a>
+</h3>
+
+The project’s goal is to collect the prices of the 25 items included in the Food Baskets: Operational Program to Support the Neediest People. We got the data of grocery products information with 16866 products and 8 features from 2 Portuguese supermarkets. By finding the best bargains among retailers, our analysis can assist customers in saving money. We divided the project into 3 major parts:
 
     2.1. Data Collection;
     2.2. Data Cleaning;
     2.3. Data Visualization and Analysis.
 
-![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `t-SQL` <p> 
+<h2>5. t-SQL</h2>
 
-The project consist of working the Adventure Works database in two ways using Microsoft Azure:
+<h3>
+    <span class="subheading">5.1.</span>
+    <a href="https://github.com/AndrePatchy/nova-ims/blob/main/t-sql/auction_script.sql" target="_blank">Online auction process in SQL</a>
+</h3>
 
-[1. Online auction process in SQL](./t-sql/auction_script.sql) <p> 
 Using t-SQL we built an auction schema in a CosmosDB database, created stored procedures for adding products to auction, bidding on a product, removing a product from auction, updating a product’s auction status and creating lists of product’s bidding history. 
 
-[2. Brick-and-mortar stores](./t-sql/part_2/Part_2_script.sql) <p>
+<h3>
+    <span class="subheading">5.2.</span>
+    <a href="https://github.com/AndrePatchy/nova-ims/tree/main/t-sql/part_2" target="_blank">Brick-and-mortar stores</a>
+</h3>
+
 A comprehensive analysis of the database to develop data-driven arguments for a final proposition of the two best cities for Adventure Works to open the first 2 brick-and-mortar stores. 
 
 </body>
