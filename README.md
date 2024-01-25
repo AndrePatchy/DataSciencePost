@@ -29,12 +29,15 @@ The following projects were developed in the **Enterprise Data Science and Analy
 </h2>
 
 <h3>
-    <span class="subheading">Unsupervised Learning</span>
+    <span class="subheading">2.Unsupervised Learning</span>
 </h3>
 
+<h3>
+    <span class="subheading">2.1.</span>
+    <a href="https://github.com/AndrePatchy/nova-ims/blob/main/Machine%20Learning/Unsupervised%20Learning/Deliverables/DSML_202223_Cluster_Group21_Notebook.ipynb" target="_blank">Customer Profiling</a>
+    <p>Using Python we analyzed (data cleaning, data transforming, feature engineering, statistical analysis, PCA) and segmented a customer's database by applying clustering algorithms (k-means, k-modes). The 4 distinct groups identified were personally approached by the marketing team. </p>
+</h3>
 
-[Customer Profiling](https://github.com/AndrePatchy/nova-ims/blob/main/Machine%20Learning/Unsupervised%20Learning/Deliverables/DSML_202223_Cluster_Group21_Notebook.ipynb) <p> 
-Using Python we analyzed (data cleaning, data transforming, feature engineering, statistical analysis, PCA) and segmented a customer's database by applying clustering algorithms (k-means, k-modes). The 4 distinct groups identified were personally approached by the marketing team. 
 
 __Supervised Learning__ <p> 
 1st Project <p>
