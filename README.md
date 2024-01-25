@@ -13,8 +13,8 @@ The following projects were developed in the **Enterprise Data Science and Analy
 <h1>Data Science & Machine Learning</h1>
 
 <h2>
-    <span class="subheading">1..</span>
-    <a href="https://github.com/AndrePatchy/nova-ims/tree/main/Machine%20Learning/Deep%20Learning" target="_blank">1. Deep Learning</a>
+    <span class="subheading">1.</span>
+    <a href="https://github.com/AndrePatchy/nova-ims/tree/main/Machine%20Learning/Deep%20Learning" target="_blank">Deep Learning</a>
 </h2>
 <p>Classification and regression problems applying only deep learning algorithms.</p>
 
