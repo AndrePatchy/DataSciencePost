@@ -29,7 +29,8 @@ The following projects were developed in the **Enterprise Data Science and Analy
 </h2>
 
 <h3>
-    <span class="subheading">2. Unsupervised Learning</span>
+    <span class="subheading">2.</span>
+    <a href="https://github.com/AndrePatchy/nova-ims/tree/main/Machine%20Learning/Unsupervised%20Learning" target="_blank">Unsupervised Learning</a>
 </h3>
 
 <h3>
