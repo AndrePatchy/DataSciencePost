@@ -71,10 +71,6 @@ Build k-means algorithm step by step.
 
 The project’s goal is to collect the prices of the 25 items included in the Food Baskets: Operational Program to Support the Neediest People. We got the data of grocery products information with 16866 products and 8 features from 2 Portuguese supermarkets. By finding the best bargains among retailers, our analysis can assist customers in saving money. We divided the project into 3 major parts:
 
-    2.1. Data Collection;
-    2.2. Data Cleaning;
-    2.3. Data Visualization and Analysis.
-
 <h2>5. t-SQL</h2>
 
 <h3>
