@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Project Readme</title>
+</head>
+<body>
+
 <img src="https://github.com/AndrePatchy/NOVA-IMS/blob/main/novaimsimage.png?raw=true" width="300" height="300" /> 
 
 The following projects were developed in the **Enterprise Data Science and Analytics** Post-Graduation at NOVA Information Management School - University of Lisbon!
@@ -57,3 +66,6 @@ Using t-SQL we built an auction schema in a CosmosDB database, created stored pr
 
 [2. Brick-and-mortar stores](./t-sql/part_2/Part_2_script.sql) <p>
 A comprehensive analysis of the database to develop data-driven arguments for a final proposition of the two best cities for Adventure Works to open the first 2 brick-and-mortar stores. 
+
+</body>
+</html>
