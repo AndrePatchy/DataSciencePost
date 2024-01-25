@@ -12,10 +12,10 @@ The following projects were developed in the **Enterprise Data Science and Analy
 
 <h1>Data Science & Machine Learning</h1>
 
-<h2>
+<h1>
     <span class="heading">1.</span>
     <a href="https://github.com/AndrePatchy/nova-ims/tree/main/Machine%20Learning/Deep%20Learning" target="_blank">Deep Learning</a>
-</h2>
+</h1>
 <p>Classification and regression problems applying only deep learning algorithms.</p>
 
 <h2>
@@ -23,20 +23,20 @@ The following projects were developed in the **Enterprise Data Science and Analy
     <a href="https://github.com/AndrePatchy/nova-ims/blob/main/Machine%20Learning/Deep%20Learning/Neural%20Net/predict_imdb_reviews.ipynb" target="_blank">Predict IMDB reviews with Neural Networks</a>
 </h2>
 
-<h2>
+<h3>
     <span class="subheading">1.2.</span>
     <a href="https://github.com/AndrePatchy/nova-ims/blob/main/Machine%20Learning/Deep%20Learning/CNN/diabetic_retinopathy_classification.ipynb" target="_blank">Diagnosis of Diabetic Retinopathy with Convolutional Neural Networks</a>
-</h2>
+</h3>
 
-<h3>
+<h1>
     <span class="subheading">2.</span>
     <a href="https://github.com/AndrePatchy/nova-ims/tree/main/Machine%20Learning/Unsupervised%20Learning" target="_blank">Unsupervised Learning</a>
-</h3>
+</h1>
 
-<h3>
+<h2>
     <span class="subheading">2.1.</span>
     <a href="https://github.com/AndrePatchy/nova-ims/blob/main/Machine%20Learning/Unsupervised%20Learning/Deliverables/DSML_202223_Cluster_Group21_Notebook.ipynb" target="_blank">Customer Profiling</a>
-</h3>
+</h2>
 <p>Using Python we analyzed (data cleaning, data transforming, feature engineering, statistical analysis, PCA) and segmented a customer's database by applying clustering algorithms (k-means, k-modes). The 4 distinct groups identified were personally approached by the marketing team.</p>
 
 
