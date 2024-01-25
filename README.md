@@ -24,10 +24,7 @@
     <a href="https://github.com/AndrePatchy/nova-ims/blob/main/Machine%20Learning/Deep%20Learning/CNN/diabetic_retinopathy_classification.ipynb" target="_blank">Diagnosis of Diabetic Retinopathy with Convolutional Neural Networks</a>
 </h3>
 
-<h2>
-    <span class="subheading">2.</span>
-    <a href="https://github.com/AndrePatchy/nova-ims/tree/main/Machine%20Learning/Unsupervised%20Learning" target="_blank">Unsupervised Learning</a>
-</h2>
+<h2>2. Unsupervised Learning</h2>
 
 <h3>
     <span class="subheading">2.1.</span>
@@ -35,10 +32,7 @@
 </h3>
 <p>Using Python we analyzed (data cleaning, data transforming, feature engineering, statistical analysis, PCA) and segmented a customer's database by applying clustering algorithms (k-means, k-modes). The 4 distinct groups identified were personally approached by the marketing team.</p>
 
-<h2>
-    <span class="subheading">3.</span>
-    <a href="https://github.com/AndrePatchy/nova-ims/tree/main/Machine%20Learning/Supervised%20Learning" target="_blank">Supervised Learning</a> 
-</h2>
+<h2>3. Supervised Learning</h2>
 
 <h3>
     <span class="subheading">3.1.</span>
