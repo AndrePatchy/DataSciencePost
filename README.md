@@ -2,16 +2,17 @@
 
 The following projects were developed in the **Enterprise Data Science and Analytics** Post-Graduation at NOVA Information Management School - University of Lisbon!
 
-<h1>Machine Learning</h1> <p> 
+<h1>Machine Learning</h1>
 
-[Deep Learning](https://github.com/AndrePatchy/nova-ims/tree/main/Machine%20Learning/Deep%20Learning) <p>
+<h2><a href="https://github.com/AndrePatchy/nova-ims/tree/main/Machine%20Learning/Deep%20Learning" target="_blank">Deep Learning</a></h2>
+
 Classification and regression problems applying only deep learning algorithms.
 
 [Predict IMDB reviews with Neural Networks](https://github.com/AndrePatchy/nova-ims/blob/main/Machine%20Learning/Deep%20Learning/Neural%20Net/predict_imdb_reviews.ipynb) <p>
 
 [Diagnosis of Diabetic Retinopathy with Convolutional Neural Networks](https://github.com/AndrePatchy/nova-ims/blob/main/Machine%20Learning/Deep%20Learning/CNN/diabetic_retinopathy_classification.ipynb)
 
-__Unsupervised Learning__
+Unsupervised Learning
 
 [Customer Profiling](https://github.com/AndrePatchy/nova-ims/blob/main/Machine%20Learning/Unsupervised%20Learning/Deliverables/DSML_202223_Cluster_Group21_Notebook.ipynb) <p> 
 Using Python we analyzed (data cleaning, data transforming, feature engineering, statistical analysis, PCA) and segmented a customer's database by applying clustering algorithms (k-means, k-modes). The 4 distinct groups identified were personally approached by the marketing team. 
