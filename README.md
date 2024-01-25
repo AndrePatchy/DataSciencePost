@@ -2,7 +2,7 @@
 
 The following projects were developed in the **Enterprise Data Science and Analytics** Post-Graduation at NOVA Information Management School - University of Lisbon!
 
-![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `Machine Learning` <p> 
+<h1>![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `Machine Learning`</h1> <p> 
 
 [Deep Learning](https://github.com/AndrePatchy/nova-ims/tree/main/Machine%20Learning/Deep%20Learning) <p>
 Classification and regression problems applying only deep learning algorithms.
