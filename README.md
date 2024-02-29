@@ -69,7 +69,7 @@ Build k-means algorithm step by step.
     <a href="https://github.com/AndrePatchy/nova-ims/tree/main/python/webscrapping_project" target="_blank">Webscrapping Project</a>
 </h3>
 
-The project’s goal is to collect the prices of the 25 items included in the Food Baskets: Operational Program to Support the Neediest People. We got the data of grocery products information with 16866 products and 8 features from 2 Portuguese supermarkets. By finding the best bargains among retailers, our analysis can assist customers in saving money. We divided the project into 3 major parts:
+I created a bot that automatically navigates through the 2 largest Portuguese retailers' websites and extracts product information. I obtained a data set with more than 16,000 products, which was then analyzed for benchmarking purposes
 
 <h2>5. t-SQL</h2>
 
