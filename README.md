@@ -9,7 +9,6 @@
 <img src="https://github.com/AndrePatchy/NOVA-IMS/blob/main/novaimsimage.png?raw=true" width="250" height="250" /> 
 
 <h1>Data Science & Machine Learning</h1>
-<p>The following projects were developed in the Enterprise Data Science and Analytics Post-Graduation at NOVA Information Management School - University of Lisbon!</p>
 
 <h2>1. Deep Learning</h2>
 <p>Classification and regression problems applying only deep learning algorithms.</p>
