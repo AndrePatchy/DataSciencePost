@@ -29,7 +29,12 @@
     <span class="subheading">2.1.</span>
     <a href="https://github.com/AndrePatchy/nova-ims/blob/main/Machine%20Learning/Unsupervised%20Learning/Deliverables/DSML_202223_Cluster_Group21_Notebook.ipynb" target="_blank">Customer Profiling</a>
 </h3>
-<p>Using Python we analyzed (data cleaning, data transforming, feature engineering, statistical analysis, PCA) and segmented a customer's database by applying clustering algorithms (k-means, k-modes). The 4 distinct groups identified were personally approached by the marketing team.</p>
+<p>Goals of the projects:</p>
+<ul>
+    <li>Produce a comprehensive report that identifies the main customer segments, accompanied by a preliminary marketing plan that will serve as a guide for future initiatives</li>
+    <li>Customer value segmentation</li>
+    <li>Customer behavior segmentation</li>
+</ul>
 
 <h2>3. Supervised Learning</h2>
 
