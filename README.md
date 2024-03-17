@@ -36,6 +36,21 @@
     <li>Customer behavior segmentation</li>
 </ul>
 
+<p>Solution:</p>
+<ul>
+    <li>Exploratory Data Analysis
+    <li>Data Cleaning</li>
+    <li>Data Engineering</li>
+    <li>Feature Selection</li>
+    <li>Modelling</li>
+</ul>
+<p>Responsibilities:</p>
+<ul>
+    <li>EDA</li>
+    <li>Data Engineering</li>
+    <li>Customer Behaviour</li>
+</ul>
+
 <h2>3. Supervised Learning</h2>
 
 <h3>
